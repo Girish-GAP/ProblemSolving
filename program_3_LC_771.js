@@ -1,3 +1,5 @@
+// Exposure problem
+
 /**
  * @param {string} jewels
  * @param {string} stones
